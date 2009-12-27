@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2901
+
+This plugin can show the function's define where the cursor at when you type "fd".
+Well,You can also type "(" after a functionname,then the define will show in the command line.
+
+After all:
+This plugin supports types such as cpp,c,java,c# with Exuberant Ctags.
+
+My home page: http://www.vimer.cn ,and willcome.
+
